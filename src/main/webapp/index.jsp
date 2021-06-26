@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World. CloudNative Welcomes you </h2>
+<h2>Hello World. CloudNative Welcomes you to devops team </h2>
 </body>
 </html>
